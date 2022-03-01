@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/kjohn22/kjohn22/main/Black%20%26%20White%20Hello!%20Nice%20to%20Meet%20You!%20LinkedIn%20Banner%20(1).png" alt="banner that says Kelly Johnson">
 
 <!--
 **kjohn22/kjohn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
