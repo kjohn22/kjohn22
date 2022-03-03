@@ -21,6 +21,24 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 ### <div align="center">I'm Kelly Johnson!</div>  
+## Recent Blog Posts  
+<div align="center">
+            <a href="https://paypal.me/icedtofulatte" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/icedtofulatte" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 -->
  
   
@@ -87,8 +105,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
@@ -104,20 +120,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/icedtofulatte" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/icedtofulatte" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+---
