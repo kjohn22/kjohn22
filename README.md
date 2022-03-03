@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/kjohn22/kjohn22/main/Black%20%26%20White%20Hello!%20Nice%20to%20Meet%20You!%20LinkedIn%20Banner%20(1).png" alt="banner that says Kelly Johnson">
 </div>  
@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
+### <div align="center">I'm Kelly Johnson!</div>  
 -->
  
   
 
-### <div align="center">I'm Kelly Johnson!</div>  
+
   
 
 - 🔭 I’m currently working on my MS in Data Analytics Engineering   
