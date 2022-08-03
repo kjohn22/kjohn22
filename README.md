@@ -73,7 +73,9 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
-
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="SQL" height="50" />  
+</div>
 
 </td></tr></table>  
 
